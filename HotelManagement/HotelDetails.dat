@@ -1,0 +1,25 @@
+           Hotel       Manager Guests Employees
+===============================================
+     Grand Hotel John Johnson     5     5
+
+                              Employees List
+===============================================
+   Employee Name     ID       Wage        Job
+===============================================
+        Paul Doe     3      13.00     Cleaner
+
+                          Current Guest List
+===============================================
+           Guest  Room Number        Room Type
+===============================================
+        John Doe       101           Single
+    Jane Janeson       102           Double
+    Mark Markson       103     Presidential
+   Elvis Presley       104             King
+ Freddie Mercury       105            Queen
+
+                         Current Dishes List
+===============================================
+                Dish        Price   Course 
+          Cheesecake      4.50      Dessert
+                               End of Report
